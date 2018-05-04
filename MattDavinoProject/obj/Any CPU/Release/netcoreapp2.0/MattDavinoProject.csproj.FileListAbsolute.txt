@@ -1,0 +1,11 @@
+C:\Users\immat\source\repos\MattDavinoProject\MattDavinoProject\bin\Any CPU\Release\netcoreapp2.0\MattDavinoProject.deps.json
+C:\Users\immat\source\repos\MattDavinoProject\MattDavinoProject\bin\Any CPU\Release\netcoreapp2.0\MattDavinoProject.runtimeconfig.json
+C:\Users\immat\source\repos\MattDavinoProject\MattDavinoProject\bin\Any CPU\Release\netcoreapp2.0\MattDavinoProject.runtimeconfig.dev.json
+C:\Users\immat\source\repos\MattDavinoProject\MattDavinoProject\bin\Any CPU\Release\netcoreapp2.0\MattDavinoProject.dll
+C:\Users\immat\source\repos\MattDavinoProject\MattDavinoProject\bin\Any CPU\Release\netcoreapp2.0\MattDavinoProject.pdb
+C:\Users\immat\source\repos\MattDavinoProject\MattDavinoProject\obj\Any CPU\Release\netcoreapp2.0\MattDavinoProject.csprojResolveAssemblyReference.cache
+C:\Users\immat\source\repos\MattDavinoProject\MattDavinoProject\obj\Any CPU\Release\netcoreapp2.0\MattDavinoProject.csproj.CoreCompileInputs.cache
+C:\Users\immat\source\repos\MattDavinoProject\MattDavinoProject\obj\Any CPU\Release\netcoreapp2.0\MattDavinoProject.AssemblyInfoInputs.cache
+C:\Users\immat\source\repos\MattDavinoProject\MattDavinoProject\obj\Any CPU\Release\netcoreapp2.0\MattDavinoProject.AssemblyInfo.cs
+C:\Users\immat\source\repos\MattDavinoProject\MattDavinoProject\obj\Any CPU\Release\netcoreapp2.0\MattDavinoProject.dll
+C:\Users\immat\source\repos\MattDavinoProject\MattDavinoProject\obj\Any CPU\Release\netcoreapp2.0\MattDavinoProject.pdb
