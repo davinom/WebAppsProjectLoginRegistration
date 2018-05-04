@@ -1,0 +1,14 @@
+<form #RegisterForm="ngForm"  (ngSubmit)="register()" class="register form-signin mt-5">
+
+  <h1 class="h3 mb-3 font-weight-normal">Welcome to the Matrix!</h1>
+  <input class="form-control mr-sm-2" type="text" required name="username" [(ngModel)]="model.username" placeholder="Username"> <br />
+  <input class="form-control mr-sm-2" type="password" required name="password" [(ngModel)]="model.password" placeholder="Password"> <br />
+  <input name="passwordConfirm" class="form-control mr-sm-2" type="password" placeholder="Confirm Password" [(ngModel)]="PasswordConfirmation.passwordConfirm" required />
+  <alert *ngIf="!VarifyPassword()" class="alert alert-danger">Passwords Do not Match!</alert>
+  <div class="buttons">
+      <button class="btn btn-success btn-lg" type="submit" [disabled]="!RegisterForm.valid">Register</button>
+
+    <button class="btn btn-lg btn-default">Cancel</button>
+  </div>
+</form>
+
